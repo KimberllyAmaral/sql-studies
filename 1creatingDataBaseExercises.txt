@@ -1,0 +1,27 @@
+Question 1:
+com quatro informações principais de acesso, é possível acessar um servidor MySQL, quais são?
+R - Endereço de IP do servidor MySQL, nome do usuário, Senha e a porta TCP/IP.
+
+Question 2:
+Sobre os identificadores, ou seja nome de Banco de Dados, nome de Tabelas e campos, quais caracteres devemos utilizar?
+R - Letras e números, além do caractere underline (_), não podemos utilizar espaços em identificadores.
+
+Question 3: 
+No MySQL qual caractere é utilizado para finalizar uma instrução por padrão?
+R - ;
+
+Question 4:
+Qual sequência de comando de teclado utilizamos para executar uma linha onde se encontra o cursor do teclado?
+R - Ctrl + Enter
+
+Question 5: 
+Qual comando devemos utilizar para criar um banco de dados chamado Shelby ?
+R - CREATE DATABASE shelby;
+
+Question 6:
+Uma vez conectado a um servidor MySQL, qual comando devemos utilizar para acessar um banco de dados chamado shelby?
+R - USE shelby;
+
+Question 7;
+Qual comando utilizamos para eliminar um banco chamado banco2?
+R - DROP DATABASE banco2;
