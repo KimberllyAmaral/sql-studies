@@ -1,0 +1,21 @@
+Exercícios para fixar comandos básicos de criaçãode Tabelas,
+cadastro e tipo de dados varchar.
+
+Question 1:
+Como podemos definir um Servidor de Banco de Dados MySQL?
+R - É um computador onde instalamos o Servidor MySQL e
+dentro deste servidor podemos ter inúmeros bancos de dados MySQL.
+
+Question 2:
+Complete para entender a hierarquia dos objetos no MySQL:
+Em um [servidor] MySQL podemos ter vários [bancos] criados, dentro de cada 
+[banco] podemos criar várias [tabelas].
+
+Question 3: 
+Qual comando utilizamos para criar uma tabela chamada tb-clientes?
+R - CREATE TABLE tb_clients ( );
+
+Question 4:
+Em um campo com o tipo de dados varchar(255) significa que podemos armaznar 
+que tipo de informação?
+R - Podemos armazenar até 255 caracteres.
