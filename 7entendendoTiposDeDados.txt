@@ -1,0 +1,12 @@
+Question 1:
+O tipo de dado que valida na hora a informação que o usuário está inserindo se chama:
+R - ENUM
+
+Question 2:
+Nosso gestor de projeto pediu para criarmos uma coluna em nosso Banco de Dados que armazenará um número decimal de até 8 dígitos e que conterá três casas decimais. 
+Qual opção abaixo realizaria essa criação para nós?
+R- DECIMAL(8, 3)
+
+Question 3:
+Qual função do MySQL nos retorna o valor do TIMESTAMP atual?
+R- CURRENT_TIMESTAMP
