@@ -1,0 +1,8 @@
+Question 1:
+Quais são dois comandos que fazem parte do grupo DDL, e que permite criar ou eliminar um banco de dados?
+R- CREATE DATABASE [banco];
+
+Question 2:
+O comando SELECT é o único comando do subgrupo ___ da linguagem SQL, responsável por realizar consultas em tabelas no Banco de Dados.
+R- DQL(Data Query Language)
+
